@@ -1,2 +1,2 @@
 # Random-Numbers
-Small project that prints random numbers
+Numbers will continuously print randomly until one is above 50.
